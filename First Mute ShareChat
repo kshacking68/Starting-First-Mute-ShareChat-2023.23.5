@@ -39,13 +39,13 @@ This one time only for those who last paid for the app, get this one time free, 
   
   "Update_Type": "true",
   
-  "New_Version": "2023.23.5",
+  "New_Version": "2023.23.4",
   
   "Show_Time": "0",
   
   
   
-  "isCancelable": "false",
+  "isCancelable": "true",
   
   "Cancel_Button_Text_Color": "#FF009ACD",
   
